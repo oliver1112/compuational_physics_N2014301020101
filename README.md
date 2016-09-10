@@ -1,5 +1,5 @@
 # compuational_physics_N2014301020101
-#Homework list
+#Homework of Computational Physics, 2016
 ##Exercise_01:
 ##Exercise_02:
 ##Exercise_03:
