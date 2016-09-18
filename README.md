@@ -1,6 +1,6 @@
 # compuational_physics_N2014301020101
 #Homework of Computational Physics, 2016
-* [Exercise_01:]()
+- [x]  [Exercise_01:](https://www.zybuluo.com/oliver1995/note/505275)
 * [Exercise_02:]()
 * [Exercise_03:]()
 * [Exercise_04:]()
