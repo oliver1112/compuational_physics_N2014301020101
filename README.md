@@ -7,7 +7,7 @@
 - [x] [Exercise_06: problem 2.10 The trajectory of a cannon shell(2)](https://www.zybuluo.com/oliver1995/note/542522)
 - [x] [Exercise_07: problem 3.15 Oscillatory and Motion and Chaos](https://www.zybuluo.com/oliver1995/note/557821)
 - [x] [Exercise_08: problem 3.18 Exercise 08:Oscillatory and Motion and Chaos (2)](https://www.zybuluo.com/oliver1995/note/565884)
-- [ ] [Exercise_09:]()
+- [x] [Exercise_09: the Lorentz model](https://www.zybuluo.com/oliver1995/note/573657)
 - [ ] [Exercise_10:]()
 - [ ] [Exercise_11:]()
 - [ ] [Exercise_12:]()
