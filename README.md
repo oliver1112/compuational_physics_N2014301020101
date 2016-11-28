@@ -8,7 +8,7 @@
 - [x] [Exercise_07: problem 3.15 Oscillatory and Motion and Chaos](https://www.zybuluo.com/oliver1995/note/557821)
 - [x] [Exercise_08: problem 3.18 Exercise 08:Oscillatory and Motion and Chaos (2)](https://www.zybuluo.com/oliver1995/note/565884)
 - [x] [Exercise_09: the Lorentz model](https://www.zybuluo.com/oliver1995/note/573657)
-- [ ] [Exercise_10:]()
+- [x] [Exercise_10:](https://www.zybuluo.com/mdeditor#581950)
 - [ ] [Exercise_11:]()
 - [ ] [Exercise_12:]()
 - [ ] [Exercise_13:]()
