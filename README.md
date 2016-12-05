@@ -9,6 +9,6 @@
 - [x] [Exercise_08: problem 3.18 Exercise 08:Oscillatory and Motion and Chaos (2)](https://www.zybuluo.com/oliver1995/note/565884)
 - [x] [Exercise_09: the Lorentz model](https://www.zybuluo.com/oliver1995/note/573657)
 - [x] [Exercise_10: The solar system ](https://www.zybuluo.com/oliver1995/note/581950)
-- [ ] [Exercise_11:]()
+- [x] [Exercise_11:Exercise_11:Hyperion](https://www.zybuluo.com/oliver1995/note/590176)
 - [ ] [Exercise_12:]()
 - [ ] [Exercise_13:]()
